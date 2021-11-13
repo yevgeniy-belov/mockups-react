@@ -1,0 +1,39 @@
+{
+    "projects": [
+        {
+            "id": "TTTTT",
+            "name": "React",
+            "domainDev": "http://localhost:2000",
+            "domainProd": "/slides-react",
+            "hasTS": false,
+            "hasHTML": false,
+            "hasTSX": true,
+            "stories": [
+                {
+                    "id": "MZXAKLGMYU",
+                    "name": "New Story",
+                    "slides": [
+                        {
+                            "id": "TMBGEMGFUA"
+                        }
+                    ]
+                },
+                {
+                    "id": "NRCHVEYCDW",
+                    "name": "One",
+                    "slides": [
+                        {
+                            "id": "Best"
+                        },
+                        {
+                            "id": "PDJAZFCVKN"
+                        },
+                        {
+                            "id": "RACMBUKZAO"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
